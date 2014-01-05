@@ -1,0 +1,8 @@
+{
+	"title": "Foobar",
+	"posts":
+	[
+		{"title": "Post 2", "src": "post2.md", "date": "2013-12-14"},
+		{"title": "Post 1", "src": "post1.md", "date": "2014-01-03"}
+	]
+}
